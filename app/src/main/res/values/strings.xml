@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Vremea in Timisoara si imprejurimi</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh" translatable="false">Timisoara</string>
+    <string name="action_refresh2" translatable="false">Giroc</string>
+    <string name="action_refresh3" translatable="false">Mosnita noua</string>
+</resources>
